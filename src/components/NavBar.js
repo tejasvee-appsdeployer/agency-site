@@ -4,7 +4,7 @@ import Navbar from "react-bootstrap/Navbar";
 
 function NavBar() {
 	return (
-		<Navbar fixed="top" bg="light" expand="lg">
+		<Navbar fixed="top" bg="light" expand="lg" className="container-fluid">
 			<Container fluid>
 				<Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
 				<Navbar.Toggle aria-controls="navbarScroll" />

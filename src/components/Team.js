@@ -14,7 +14,7 @@ function Team() {
 						Lorem ipsum dolor sit amet consectetur.
 					</h3>
 				</div>
-				<div className="row px-3 py-3 card-wrap border-bottom">
+				<div className="row row-cols-1 row-cols-lg-3 px-3 py-3 card-wrap border-bottom">
 					<div className="col img-wrap d-flex align-items-center flex-column">
 						<img className="img img-thumbnail mb-3" src={img1} alt="" />
 						<div className="w-50">

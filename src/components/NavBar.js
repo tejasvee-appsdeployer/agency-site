@@ -1,12 +1,21 @@
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
+import Logo from "../assests/img/favicon.ico";
 
 function NavBar() {
 	return (
-		<Navbar fixed="top" bg="light" expand="lg" className="container-fluid">
+		<Navbar
+			fixed="top"
+			bg="dark"
+			variant="dark"
+			expand="lg"
+			className="container-fluid"
+		>
 			<Container fluid>
-				<Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
+				<Navbar.Brand href="#carousel">
+					<img src={Logo} alt="" style={{ width: "2rem" }} />
+				</Navbar.Brand>
 				<Navbar.Toggle aria-controls="navbarScroll" />
 				<Navbar.Collapse id="navbarScroll">
 					<Nav

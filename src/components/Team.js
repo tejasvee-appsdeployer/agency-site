@@ -21,9 +21,9 @@ function Team() {
 							<h4 className="text-uppercase">Naveen</h4>
 							<h5 className="text-muted">Senior Designer</h5>
 							<div className="mt-4 display-6 d-flex align-items-center justify-content-around">
-								<i class="fa-brands fa-google-plus"></i>
-								<i class="fa-brands fa-facebook"></i>
-								<i class="fa-brands fa-linkedin"></i>
+								<i className="fa-brands fa-google-plus"></i>
+								<i className="fa-brands fa-facebook"></i>
+								<i className="fa-brands fa-linkedin"></i>
 							</div>
 						</div>
 					</div>
@@ -33,9 +33,9 @@ function Team() {
 							<h4 className="text-uppercase">Ava</h4>
 							<h5 className="text-muted">Senior Engineer</h5>
 							<div className="mt-4 display-6 d-flex align-items-center justify-content-around">
-								<i class="fa-brands fa-google-plus"></i>
-								<i class="fa-brands fa-facebook"></i>
-								<i class="fa-brands fa-linkedin"></i>
+								<i className="fa-brands fa-google-plus"></i>
+								<i className="fa-brands fa-facebook"></i>
+								<i className="fa-brands fa-linkedin"></i>
 							</div>
 						</div>
 					</div>
@@ -45,9 +45,9 @@ function Team() {
 							<h4 className="text-uppercase">Steve</h4>
 							<h5 className="text-muted">Sales Head</h5>
 							<div className="mt-4 display-6 d-flex align-items-center justify-content-around">
-								<i class="fa-brands fa-google-plus"></i>
-								<i class="fa-brands fa-facebook"></i>
-								<i class="fa-brands fa-linkedin"></i>
+								<i className="fa-brands fa-google-plus"></i>
+								<i className="fa-brands fa-facebook"></i>
+								<i className="fa-brands fa-linkedin"></i>
 							</div>
 						</div>
 					</div>

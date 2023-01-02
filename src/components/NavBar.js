@@ -18,7 +18,6 @@ function NavBar() {
 						<Nav.Link href="#services">Service</Nav.Link>
 						<Nav.Link href="#about">About</Nav.Link>
 						<Nav.Link href="#our_team">Our Team</Nav.Link>
-						<Nav.Link href="#protfolio">Portfolio</Nav.Link>
 						<Nav.Link href="#contact">Contact</Nav.Link>
 					</Nav>
 				</Navbar.Collapse>

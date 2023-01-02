@@ -5,7 +5,7 @@ import img3 from "../assests/img/img3.jpg";
 
 function CarouselC() {
 	return (
-		<Carousel className="mt-5 carousel font-monospace">
+		<Carousel className="mt-5 carousel font-monospace" id="carousel">
 			<Carousel.Item className="carousel-item">
 				<img className="img-fluid" src={img1} alt="First slide" />
 				<Carousel.Caption className="fs-1 fw-light">

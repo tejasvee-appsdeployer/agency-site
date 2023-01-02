@@ -14,13 +14,12 @@ function NavBar() {
 						style={{ maxHeight: "100px" }}
 						navbarScroll
 					>
-						<Nav.Link href="#action1">Home</Nav.Link>
-						<Nav.Link href="#action2">Service</Nav.Link>
-						<Nav.Link href="#action2">About</Nav.Link>
-						<Nav.Link href="#action2">Our Team</Nav.Link>
-						<Nav.Link href="#action2">Portfolio</Nav.Link>
-						<Nav.Link href="#action2">Calculator</Nav.Link>
-						<Nav.Link href="#action2">Contact</Nav.Link>
+						<Nav.Link href="#carousel">Home</Nav.Link>
+						<Nav.Link href="#services">Service</Nav.Link>
+						<Nav.Link href="#about">About</Nav.Link>
+						<Nav.Link href="#our_team">Our Team</Nav.Link>
+						<Nav.Link href="#protfolio">Portfolio</Nav.Link>
+						<Nav.Link href="#contact">Contact</Nav.Link>
 					</Nav>
 				</Navbar.Collapse>
 			</Container>
